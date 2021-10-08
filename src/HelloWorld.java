@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Added comments by Suresh
+
 public class HelloWorld {
     public static void main(String[] args){
         // to read input from user
